@@ -46,6 +46,5 @@ My research agenda integrates Demand System Asset Pricing (DSAP) and high-dimens
 ## Skills
 
 - **Programming:** Python, MATLAB, R, Julia, C, C++, LATEX
-- **Machine Learning:** Deep Learning, Neural Networks, Gradient Boosting
-- **Econometrics:** Time Series Analysis, GMM, MLE, Microstructure
+- **Econometrics:** Empirical Research Methods, Microstructure
 - **Languages:** English (Fluent), Chinese (Native), Dutch (Professional), Japanese (Intermediate)
