@@ -1,0 +1,41 @@
+/* ==========================================================================
+   CUSTOM STYLING ADJUSTMENTS
+   Improves spacing and readability by increasing font sizes and reducing margins
+   ========================================================================== */
+
+/* Increase base font size for better readability */
+html {
+  font-size: 18px; /* Increased from default 16px */
+}
+
+/* Reduce excessive top margins on headings for more compact layout */
+h1, h2, h3, h4, h5, h6 {
+  margin: 1.2em 0 0.5em; /* Reduced from 2em to 1.2em */
+}
+
+/* Reduce top margin on main content area */
+#main {
+  margin-top: 1em; /* Reduced from 2em */
+}
+
+/* Adjust paragraph spacing to be more compact */
+p {
+  margin-bottom: 1em; /* Reduced from 1.3em */
+}
+
+/* Improve spacing in the page content */
+.page__content {
+  p, li, dl {
+    font-size: 1.05em; /* Slightly larger for better readability */
+  }
+}
+
+/* Adjust spacing for archive items */
+.archive__item {
+  margin-bottom: 1.5em; /* More compact spacing between items */
+}
+
+/* Reduce padding on the body for more content space */
+body {
+  padding-bottom: 6em; /* Reduced from 9em */
+}
