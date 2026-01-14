@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at NUS [AI in Finance and Digital Economy (AIDF)](https://www.aidf.nus.edu.sg/), specialising in Empirical Asset Pricing and Machine Learning. 
+I am a PhD Candidate at NUS [Asian Institute of Digital Finance (AIDF)](https://www.aidf.nus.edu.sg/), specialising in Empirical Asset Pricing and Machine Learning. 
 
 ## Research Interests
 
