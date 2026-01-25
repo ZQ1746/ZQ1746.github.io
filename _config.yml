@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhengxi Qian"
+title                    : "Zack C. H. Tsien"
 title_separator          : "|"
-name                     : &name "Zhengxi Qian"
-description              : &description "PhD Candidate in Empirical Asset Pricing and Machine Learning"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Zack C. H. Tsien"
+description              : &description "PhD Candidate in Digital Financial Technology at NUS | Empirical Asset Pricing &amp; Machine Learning"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ZQ1746.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "ZQ1746/ZQ1746.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg"
-  name             : "Zhengxi Qian"
+  name             : "Zack C. H. Tsien"
   pronouns         : "They/Them"
-  bio              : "PhD Candidate at NUS AIDF | Empirical Asset Pricing & Machine Learning"
+  bio              : "PhD Candidate at NUS AIDF | Empirical Asset Pricing, Continuous-time Finance &amp; Machine Learning"
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
-  email            : # your email 
+  email            : "zhengxi4763@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "zhengxi-qian"
+  linkedin         : "tsien-cheng-hsi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
