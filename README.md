@@ -2,7 +2,7 @@
 
 Personal academic website for Zhengxi Qian, PhD Candidate at National University of Singapore (NUS) in Digital Financial Technology, specializing in Empirical Asset Pricing and Machine Learning.
 
-**Website:** https://ZQ1746.github.io
+**Website:** https://Tsien4763.github.io
 
 ## About
 
